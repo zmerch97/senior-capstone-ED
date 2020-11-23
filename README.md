@@ -14,5 +14,6 @@ Core competencies:
 5) Working with APIs
 6) Teamwork
 7) Documentation and presentation
+8) User testing
 
 *Since accessing the website requires an IU I.D, I have attached the documentation and poster to demonstrate the work done*
